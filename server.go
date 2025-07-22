@@ -2,7 +2,7 @@ package grpcm
 
 import (
 	"fmt"
-	"github.com/preceeder/grpcm/etcd"
+	"github.com/preceeder/go.grpcm/etcd"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
 	"log/slog"

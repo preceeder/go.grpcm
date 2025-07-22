@@ -3,7 +3,7 @@ package grpcm
 import (
 	"fmt"
 	grpc_retry "github.com/grpc-ecosystem/go-grpc-middleware/retry"
-	"github.com/preceeder/grpcm/etcd"
+	"github.com/preceeder/go.grpcm/etcd"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/backoff"
 	"log/slog"

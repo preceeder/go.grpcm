@@ -3,7 +3,7 @@ package proto
 import (
 	"context"
 	"fmt"
-	"github.com/preceeder/grpcm/etcd"
+	"github.com/preceeder/go.grpcm/etcd"
 	"google.golang.org/grpc"
 	"net"
 	"os"

@@ -3,7 +3,7 @@ package proto
 import (
 	"context"
 	"fmt"
-	"github.com/preceeder/grpcm"
+	grpcm "github.com/preceeder/go.grpcm"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/metadata"
 	"testing"
